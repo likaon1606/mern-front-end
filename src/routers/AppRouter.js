@@ -7,7 +7,6 @@ import ProjectsPage from '../pages/ProjectsPage';
 import ProjectPage from '../pages/ProjectPage';
 import UsersPage from '../pages/UsersPage';
 import NotFoundPage from '../pages/NotFoundPage';
-import Navigation from '../components/Navigation';
 import Layout from '../components/layouts/Layout';
 
 const AppRouter = () => {
